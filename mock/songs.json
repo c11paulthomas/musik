@@ -1,0 +1,394 @@
+[
+    {
+        "id": "1",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Oath",
+        "duration": "2:26"
+    },
+    {
+        "id": "2",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Virtual Friends",
+        "duration": "3:47"
+    },
+    {
+        "id": "3",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Casual Trouble",
+        "duration": "3:11"
+    },
+    {
+        "id": "4",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Broken Bricks",
+        "features": ["4"],
+        "duration": "3:32"
+    },
+    {
+        "id": "5",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Komorebi",
+        "duration": "2:32"
+    },
+    {
+        "id": "6",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Written Maze",
+        "features": ["3"],
+        "duration": "3:29"
+    },
+    {
+        "id": "7",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Petrified",
+        "duration": "3:02"
+    },
+    {
+        "id": "8",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "World Full of Snakes",
+        "features": ["5"],
+        "explicit": true,
+        "duration": "2:37"
+    },
+    {
+        "id": "9",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Grind & Hustle",
+        "duration": "2:24"
+    },
+    {
+        "id": "10",
+        "albumId": "1",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Push Through",
+        "duration": "3:52"
+    },
+
+
+
+
+    
+    {
+        "id": "11",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "The First Wish",
+        "duration": "2:19"
+    },
+    {
+        "id": "12",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Weird Machine",
+        "features": ["2"],
+        "duration": "3:03"
+    },
+    {
+        "id": "13",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Taking Flight",
+        "duration": "3:15"
+    },
+    {
+        "id": "14",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Limbo",
+        "duration": "3:17"
+    },
+    {
+        "id": "15",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Step by Step",
+        "features": ["3"],
+        "duration": "3:50"
+    },
+    {
+        "id": "16",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Turn Around (Bonus Track)",
+        "duration": "1:29"
+    },
+    {
+        "id": "17",
+        "albumId": "2",
+        "artistId": "1",
+        "genre": "Electronic",
+        "title": "Looking Back",
+        "duration": "3:35"
+    },
+
+
+
+
+
+    {
+        "id": "18",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall",
+        "duration": "2:47"
+    },
+    {
+        "id": "19",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Extended Mix)",
+        "duration": "4:43"
+    },
+    {
+        "id": "20",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Club Mix)",
+        "duration": "4:01"
+    },
+    {
+        "id": "21",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Extended Club Mix)",
+        "duration": "6:26"
+    },
+    {
+        "id": "22",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Dim3nsion Remix)",
+        "duration": "2:59"
+    },
+    {
+        "id": "23",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Yan Weinstock Remix)",
+        "duration": "2:59"
+    },
+    {
+        "id": "24",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Marcus Santoro Remix)",
+        "duration": "4:22"
+    },
+    {
+        "id": "25",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Dim3nsion Extended Remix)",
+        "duration": "6:16"
+    },
+    {
+        "id": "26",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Yan Weinstock Extended Remix)",
+        "duration": "4:13"
+    },
+    {
+        "id": "27",
+        "albumId": "3",
+        "artistId": "2",
+        "genre": "Trance",
+        "title": "Freefall (Marcus Santoro Extended Remix)",
+        "duration": "6:27"
+    },
+
+
+
+
+
+    {
+        "id": "28",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Love Again",
+        "features": ["7"],
+        "duration": "4:55"
+    },
+    {
+        "id": "29",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Dead",
+        "duration": "3:20"
+    },
+    {
+        "id": "30",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Dead (NGHTMRE Remix)",
+        "duration": "3:05"
+    },
+    {
+        "id": "31",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Dead (SAYMYNAME Remix)",
+        "duration": "2:33"
+    },
+    {
+        "id": "32",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Dead (YOOKiE Remix)",
+        "duration": "2:52"
+    },
+    {
+        "id": "33",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Dead (KLAXX Remix)",
+        "duration": "3:31"
+    },
+    {
+        "id": "34",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Love Again (Adam K Remix)",
+        "features": ["7"],
+        "duration": "3:26"
+    },
+    {
+        "id": "35",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Love Again (Pairanoid Remix)",
+        "features": ["7"],
+        "duration": "4:32"
+    },
+    {
+        "id": "36",
+        "albumId": "4",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Love Again (WAVZ Remix)",
+        "features": ["7"],
+        "duration": "3:31"
+    },
+
+
+
+
+
+    {
+        "id": "37",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "You",
+        "duration": "3:10"
+    },
+    {
+        "id": "38",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Warning",
+        "features": ["8"],
+        "duration": "3:33"
+    },
+    {
+        "id": "39",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Power",
+        "duration": "3:39"
+    },
+    {
+        "id": "40",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Gud Vibrations (Instrumental)",
+        "features": ["8"],
+        "duration": "3:44"
+    },
+    {
+        "id": "41",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Power (VIP)",
+        "duration": "2:57"
+    },
+    {
+        "id": "42",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "You (UFO! Remix)",
+        "duration": "3:31"
+    },
+    {
+        "id": "43",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "Warning (Ghastly Remix)",
+        "duration": "4:20"
+    },
+    {
+        "id": "44",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "You (Quix Remix)",
+        "duration": "3:57"
+    },
+    {
+        "id": "45",
+        "albumId": "5",
+        "artistId": "6",
+        "genre": "Dance",
+        "title": "You (J-Louis Remix)",
+        "duration": "2:20"
+    }
+]

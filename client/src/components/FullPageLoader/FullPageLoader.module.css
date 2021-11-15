@@ -1,0 +1,23 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loadingIconContainer {
+    animation: rotation 2s infinite linear;
+}
+
+.loadingText {
+    margin-left: 16px;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+}

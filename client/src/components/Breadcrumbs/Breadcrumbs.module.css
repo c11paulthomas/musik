@@ -1,0 +1,14 @@
+.listContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.listItem {
+    list-style-type: none;
+}
+
+.listItemLink {
+    color: initial;
+    text-decoration: none;
+    margin: 0px 8px;
+}

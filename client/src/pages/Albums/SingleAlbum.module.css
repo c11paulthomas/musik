@@ -1,0 +1,90 @@
+.headerGrid {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    margin-top: 16px;
+}
+
+.albumCoverImage {
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+
+.albumInformationContainer {
+    padding: 16px;
+}
+
+.albumTitleRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.albumTitle {
+    margin-right: 8px;
+}
+
+.albumDetails {
+    margin-top: 8px;
+}
+
+.tableContainer {
+    margin-top: 16px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableHead {
+    background-color: #F9FAFB;
+}
+
+.tableHeader {
+    text-align: left;
+    padding: 16px 24px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+}
+
+.tableBody {
+    background-color: #FFFFFF;
+}
+
+.tableRow {
+    border: 1px solid #E5E7EB;
+    border-left: none;
+    border-right: none;
+}
+
+.tableData {
+    padding: 16px 24px;
+    white-space: nowrap;
+}
+
+.smallTableUnit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 8px;
+}
+
+.explicitBadge {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    background-color: #EF4444;
+    color: #ffffff;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+}

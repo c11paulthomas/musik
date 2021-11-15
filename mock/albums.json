@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "artistId": "1",
+        "title": "A Promise Is Made",
+        "coverUrl": "https://d2u32tx69qajwj.cloudfront.net/a-promise-is-made.jpeg",
+        "year": "2019"
+    },
+    {
+        "id": "2",
+        "artistId": "1",
+        "title": "The Choices We Face",
+        "year": "2018",
+        "coverUrl": "https://d2u32tx69qajwj.cloudfront.net/the-choices-we-make.jpeg"
+    },
+    {
+        "id": "3",
+        "artistId": "2",
+        "title": "Freefall",
+        "year": "2019",
+        "coverUrl": "https://d2u32tx69qajwj.cloudfront.net/freefall.jpeg"
+    },
+    {
+        "id": "4",
+        "artistId": "6",
+        "title": "Duality",
+        "year": "2016",
+        "coverUrl": "https://d2u32tx69qajwj.cloudfront.net/duality.jpeg"
+    },
+    {
+        "id": "5",
+        "artistId": "6",
+        "title": "Nuclear Bonds",
+        "year": "2015",
+        "coverUrl": "https://d2u32tx69qajwj.cloudfront.net/nuclear-bonds.jpeg"
+    }
+]

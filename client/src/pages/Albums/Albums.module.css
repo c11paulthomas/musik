@@ -1,0 +1,76 @@
+.recommendedSuggestion {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 24px 0;
+}
+
+.recommendedText {
+    margin-left: 16px;
+}
+
+.albumGrid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    column-gap: 24px;
+    row-gap: 24px;
+    margin: 24px 0;
+}
+
+.albumContainer {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.albumCoverImage {
+    border-radius: 16px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.albumInfoContainer {
+    padding: 16px;
+    text-decoration: none;
+    color: initial;
+}
+
+.albumTitleRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.albumArtist {
+    margin-top: 4px;
+    color: #6B7280;
+}
+
+.albumYear {
+    margin-top: 4px;
+    font-size: 14px;
+    color: #6B7280;
+}
+
+.explicitBadge {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    background-color: #EF4444;
+    color: #ffffff;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+}
+
+.favoriteIcon {
+    cursor: pointer;
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
+

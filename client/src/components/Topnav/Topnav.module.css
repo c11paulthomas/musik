@@ -1,0 +1,25 @@
+.container {
+    background-color: #ffffff;
+    padding: 24px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.searchInput {
+    border: none;
+    font-size: 16px;
+    margin-left: 16px;
+}
+
+.searchInput:focus {
+    outline: none;
+}
+
+.searchInput::placeholder {
+    color: #9CA3AF;
+}
