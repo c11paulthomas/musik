@@ -12,7 +12,6 @@ export const GET_ALBUMS = gql`
             coverUrl
             artist{
                 name
-                genres
             }
             explicit
         }
@@ -29,7 +28,6 @@ export const GET_ALBUM_BY_ID = gql`
             coverUrl
             artist{
                 name
-                genres
             }
             explicit
             songs{
@@ -42,9 +40,6 @@ export const GET_ALBUM_BY_ID = gql`
                     title
                 }
                 artist{
-                    name
-                }
-                featuredArtists {
                     name
                 }
             }

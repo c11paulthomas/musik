@@ -58,20 +58,7 @@ const ArtistType = new GraphQLObjectType({
     name: 'Artist',
     fields: () => ({
         id: { type: GraphQLID },
-        name: { type: GraphQLString },
-        genres: { type: new GraphQLList(GraphQLString) },
-        albums: {
-            type: new GraphQLList(AlbumType),
-            resolve(parent, args) {
-                return albums.filter(album => album.artistId === parent.id)
-            }
-        },
-        songs: {
-            type: new GraphQLList(SongType),
-            resolve(parent, args) {
-                return songs.filter(song => song.artistId === parent.id)
-            }
-        }
+        name: { type: GraphQLString }
     })
 })
 
