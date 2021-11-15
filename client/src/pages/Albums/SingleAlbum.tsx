@@ -116,7 +116,7 @@ const Albums = () => {
                                     className={styles.tableData}
                                     onClick={() => setOpenedTrack(song)}
                                     >
-                                        <a>
+                                        <a className={styles.songTitle}>
                                             { song.title }
                                         </a>
                                     </td>

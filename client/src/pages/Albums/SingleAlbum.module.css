@@ -88,3 +88,10 @@
     height: 16px;
     border-radius: 4px;
 }
+
+.songTitle {
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: 600;
+    color: #7C3AED;
+}
