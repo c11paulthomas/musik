@@ -8,7 +8,7 @@ import Navigation from './Navigation'
 import Sidenav from './components/Sidenav/Sidenav'
 import Topnav from './components/Topnav/Topnav'
 
-const httpLink = createHttpLink({ uri: 'http://localhost:5000/graphql' })
+const httpLink = createHttpLink({ uri: '/graphql' })
 
 const client = new ApolloClient({
     link: httpLink,
